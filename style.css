@@ -1,0 +1,29 @@
+.buttonDiv{
+    text-align: center;
+}
+
+.head{
+    font-family: verdana;
+    font-size: 7em;
+    text-align: center;
+}
+.buttons{
+    padding: 5px 25px;
+    font-size: 1.5em;
+    background-color: gold;
+    border-radius: 10px;
+    transition: background-color 0.55s, text-color 0.55s;
+    cursor: pointer;
+    border-style: none;
+}
+
+.buttons:hover{
+    background-color: rgb(0, 17, 255);
+    color : white;
+
+}
+
+#input{
+    text-align: center;
+    font-size: 1.5em;
+}
